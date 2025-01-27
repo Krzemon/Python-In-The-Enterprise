@@ -1,0 +1,312 @@
+Student ID: 1
+Name: Bartek Nowak
+Age: 17
+Contact: 123456789
+Additional Info: Good student
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 2
+Name: Anna Kowalska
+Age: 16
+Contact: 987654321
+Additional Info: Hardworking
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 3
+Name: Jan Kowal
+Age: 18
+Contact: 555555555
+Additional Info: Excellent in math
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 4
+Name: Kasia Malinowska
+Age: 15
+Contact: 555555666
+Additional Info: Athlete
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 5
+Name: Marek Nowakowski
+Age: 19
+Contact: 444444444
+Additional Info: Leader
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 6
+Name: Karolina Laskowska
+Age: 20
+Contact: 333333333
+Additional Info: Creative
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 7
+Name: Piotr Zieliński
+Age: 16
+Contact: 666666666
+Additional Info: Focused
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 8
+Name: Magda Lewandowska
+Age: 17
+Contact: 777777777
+Additional Info: Motivated
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 9
+Name: Tomek Bąk
+Age: 18
+Contact: 888888888
+Additional Info: Dedicated
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 10
+Name: Kasia Jabłońska
+Age: 19
+Contact: 999999999
+Additional Info: Athletic
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 11
+Name: Adam Szymański
+Age: 17
+Contact: 100000000
+Additional Info: Diligent
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+
+Student ID: 12
+Name: Olga Mazur
+Age: 16
+Contact: 200000000
+Additional Info: Artistic
+Grades:
+  Math: 4
+  Physics: 4
+  Chemistry: 4
+  Biology: 4
+  History: 4
+  Geography: 4
+  English: 4
+  Polish: 4
+  Art: 4
+Attendance:
+  Math: True
+  Physics: True
+  Chemistry: True
+  Biology: True
+  History: True
+  Geography: True
+  English: True
+  Polish: True
+  Art: True
+

@@ -1,0 +1,38 @@
+{
+    "Class A": [
+        {
+            "name": "Bartek",
+            "surname": "Nowak",
+            "age": 17,
+            "grades": {
+                "Math": [
+                    5
+                ],
+                "Physics": [
+                    4
+                ]
+            },
+            "attendance": [
+                true,
+                false
+            ]
+        },
+        {
+            "name": "Anna",
+            "surname": "Kowalska",
+            "age": 16,
+            "grades": {
+                "Math": [
+                    4
+                ],
+                "Polish language": [
+                    5
+                ]
+            },
+            "attendance": [
+                true,
+                true
+            ]
+        }
+    ]
+}
